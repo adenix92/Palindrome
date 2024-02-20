@@ -1,0 +1,14 @@
+D:\visual studio project\palindromic\palindromic\bin\Debug\net8.0\palindromic.exe
+D:\visual studio project\palindromic\palindromic\bin\Debug\net8.0\palindromic.deps.json
+D:\visual studio project\palindromic\palindromic\bin\Debug\net8.0\palindromic.runtimeconfig.json
+D:\visual studio project\palindromic\palindromic\bin\Debug\net8.0\palindromic.dll
+D:\visual studio project\palindromic\palindromic\bin\Debug\net8.0\palindromic.pdb
+D:\visual studio project\palindromic\palindromic\obj\Debug\net8.0\palindromic.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio project\palindromic\palindromic\obj\Debug\net8.0\palindromic.AssemblyInfoInputs.cache
+D:\visual studio project\palindromic\palindromic\obj\Debug\net8.0\palindromic.AssemblyInfo.cs
+D:\visual studio project\palindromic\palindromic\obj\Debug\net8.0\palindromic.csproj.CoreCompileInputs.cache
+D:\visual studio project\palindromic\palindromic\obj\Debug\net8.0\palindromic.dll
+D:\visual studio project\palindromic\palindromic\obj\Debug\net8.0\refint\palindromic.dll
+D:\visual studio project\palindromic\palindromic\obj\Debug\net8.0\palindromic.pdb
+D:\visual studio project\palindromic\palindromic\obj\Debug\net8.0\palindromic.genruntimeconfig.cache
+D:\visual studio project\palindromic\palindromic\obj\Debug\net8.0\ref\palindromic.dll
