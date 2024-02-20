@@ -109,7 +109,7 @@ class Program
 
 
 
-
+        //another method to solve the problem
         /*
         for(int a = 0; a < sLen - 3; a++)
         {
